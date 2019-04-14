@@ -1,5 +1,5 @@
 # Image-Stitching
-Computer vision program to align &amp; stitch 2- images3
+This repo consists of programs to align and stitch 2 to 3 images into a panorama using the RANSAC algorithm.
 
 ## Usage
 ```python
